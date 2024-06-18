@@ -1,0 +1,7 @@
+Dear [name],
+
+This is an sample mail.
+
+Created using python!
+
+- python developer
